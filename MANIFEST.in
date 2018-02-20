@@ -1,0 +1,3 @@
+recursive-include pretix_cpanalytics/static *
+recursive-include pretix_cpanalytics/templates *
+recursive-include pretix_cpanalytics/locale *
